@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>LMS2243 Harbour Heights Village</title>
+    <link href="https://github.com/ClimberMel/LMS2243/feed.xml" rel="self" />
+    <link href="https://github.com/ClimberMel/LMS2243" />
+    <updated>2020-06-15T16:03:10-07:00</updated>
+    <author>
+        <name>Mel Pryor</name>
+    </author>
+    <id>https://github.com/ClimberMel/LMS2243</id>
+
+    <entry>
+        <title>Welcome To Harbour Heights Village</title>
+        <author>
+            <name>Mel Pryor</name>
+        </author>
+        <link href="https://github.com/ClimberMel/LMS2243/welcome-to-harbour-heights-village.html"/>
+        <id>https://github.com/ClimberMel/LMS2243/welcome-to-harbour-heights-village.html</id>
+
+        <updated>2020-06-15T15:36:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This website is a place to find information about Harbour Height Village, the Strata and Council. See links for the current Property Manager, 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img src="https://github.com/ClimberMel/LMS2243/media/posts/1/IMG_4434.JPG" alt="" width="767" height="575"></figure>
+<p>This website is a place to find information about Harbour Height Village, the Strata and Council.  See links for the current Property Manager,</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
